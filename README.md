@@ -6,6 +6,6 @@
 </body>
 </html>
 
-<h1 id="data-science-portfolio-by-brandon-knight">Data science portfolio by Brandon Knight</h1>
+<h1>Data science portfolio by Brandon Knight</h1>
 
 <p>This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.</p>
