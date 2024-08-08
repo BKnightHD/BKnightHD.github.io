@@ -1,4 +1,4 @@
-# My Data Science Portfolio
+# My Data Science Site
 
 Welcome to my data science portfolio! This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. Separate categories are for separate projects.
 
